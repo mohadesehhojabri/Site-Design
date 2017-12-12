@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    border: 3px solid black;
+    height: auto;
+    width: 580px;
+    margin: auto;
+}
+
+.form {
+    align: center;
+    text-align: center;
+    direction: rtl;
+    background-image: url("bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size:25px;
+    font-family: "B Nazanin";
+}
+
+.tagp{
+    font-size: 40px;
+    font-family: "B Nazanin";
+
+
+}
+
