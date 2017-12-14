@@ -30,3 +30,9 @@ body {
 
 }
 
+.button{
+    margin: 5px 5px;
+    padding: 5px 5px;
+    border-radius: 30px;
+    background-color:darkgray;
+}

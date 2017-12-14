@@ -23,9 +23,9 @@ body {
 }
 
 .Menubar {
-    border: 2px solid black;
+    border: 1px solid black;
     height: 55px;
-    width: 1170px;
+    width: 1164px;
     float: right;
 
 }
@@ -75,7 +75,7 @@ li {
 .thirdsection {
     border: 1px solid black;
     margin: auto;
-    width: 292px;
+    width: 286px;
     height: 800px;
     float: right;
 
@@ -140,4 +140,13 @@ a:active {
     float: left;
 
 
+}
+
+
+
+.button{
+    padding: 2px 4px;
+
+    border-radius: 30px;
+    background-color:gainsboro;
 }
