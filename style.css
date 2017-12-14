@@ -48,7 +48,6 @@ li {
     background-color: darkgrey;
     font-family: "B Nazanin";
 
-
 }
 
 .secondsection {
@@ -95,58 +94,60 @@ a.menu1 {
 
 }
 
-a.signup_text{
+a.signup_text {
     text-decoration: none;
-    font-size:23px;
+    font-size: 23px;
     font-family: "B Nazanin";
-    border:1px solid black;
-    border-radius:30px;
-    margin:4px 5px;
-    padding:2px 20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin: 4px 5px;
+    padding: 2px 20px;
     text-align: center;
-    display:inline;
+    display: inline;
     background-color: darkgrey;
     float: left;
 
 }
 
-
-a:link{
-    color:black;
+a:link {
+    color: black;
 }
-a:visited{
+
+a:visited {
     color: mediumvioletred;
 
 }
 
-a:hover{
+a:hover {
     color: yellow;
-
 }
+
+a.menu1:hover {
+    background-color: dimgrey;
+    transition: 2s;
+    padding: 2px 17px;
+}
+
 a:active {
     color: orangered;
 }
 
-.login{
-    font-size:23px;
+.login {
+    font-size: 23px;
     font-family: "B Nazanin";
-    border:1px solid black;
-    border-radius:30px;
-    margin:4px 5px;
-    padding:2px 20px;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin: 4px 5px;
+    padding: 2px 20px;
     text-align: center;
-    display:inline;
+    display: inline;
     background-color: darkgrey;
     float: left;
 
-
 }
 
-
-
-.button{
+.button {
     padding: 2px 4px;
-
     border-radius: 30px;
-    background-color:gainsboro;
+    background-color: gainsboro;
 }
